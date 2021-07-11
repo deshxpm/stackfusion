@@ -1,1 +1,1 @@
-web: gunicorn app:stackfusion
+web: gunicorn stackfusion.wsgi
